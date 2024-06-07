@@ -1,0 +1,165 @@
+{
+    "APOLLOHOSP.NS": {
+        "daydata":{
+            "name":"Apollo Hospitals",
+            "price":"₹ 5,992" ,
+            "change":"0.12"
+        },
+        "model":{
+            "data":{
+                "Today prediction":"1223 (+0.12%)",
+                "1D prediction":"1233 (+0.23%)",
+                "2D prediction":"1243 (+0.34%)",
+                "3D prediction":"1243 (+0.54%)"
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "lstm":{
+            "data":{
+                "Today prediction":23,
+                "1D prediction":23,
+                "2D prediction":23,
+                "3D prediction":23
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3945]
+        },
+        "xgboost":{
+            "data":{
+                "Today prediction":23,
+                "1D prediction":23,
+                "2D prediction":23,
+                "3D prediction":23
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3955]
+        },
+        "arima":{
+            "data":{
+                "Today prediction":23,
+                "1D prediction":23,
+                "2D prediction":23,
+                "3D prediction":23
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3945]
+        }
+    },
+    "ASIANPAINT.NS": {
+        "daydata":{
+            "name":"Asian Paints",
+            "price":"₹ 5,992" ,
+            "change":"0.12"
+        },
+        "model":{
+            "data":{
+                "Today prediction":"1223 (+0.12%)",
+                "1D prediction":"1233 (+0.23%)",
+                "2D prediction":"1243 (+0.34%)",
+                "3D prediction":"1243 (+0.54%)"
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "lstm":{
+            "data":{
+                "Today prediction":"1223 (+0.12%)",
+                "1D prediction":"1233 (+0.23%)",
+                "2D prediction":"1243 (+0.34%)",
+                "3D prediction":"1243 (+0.54%)"
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "xgboost":{
+            "data":{
+                "Today prediction":"1223 (+0.12%)",
+                "1D prediction":"1233 (+0.23%)",
+                "2D prediction":"1243 (+0.34%)",
+                "3D prediction":"1243 (+0.54%)"
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "arima":{
+            "data":{
+                "Today prediction":"1223 (+0.12%)",
+                "1D prediction":"1233 (+0.23%)",
+                "2D prediction":"1243 (+0.34%)",
+                "3D prediction":"1243 (+0.54%)"
+            },
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        }
+    },
+    "AXISBANK.NS": {
+        "daydata":{
+            "name":"Axis Bank",
+            "price":"₹ 5,992" ,
+            "change":"0.12"
+        },
+        "model":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "lstm":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "xgboost":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "arima":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        }
+    },
+    "BAJAJ-AUTO.NS": {
+        "daydata":{
+            "name":"Bajaj Auto",
+            "price":"₹ 5,992" ,
+            "change":"0.12"
+        },
+        "model":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "lstm":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "xgboost":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "arima":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        }
+    },
+    "BAJFINANCE.NS": {
+        "daydata":{
+            "name":"Bajaj Finance",
+            "price":"₹ 5,992" ,
+            "change":"0.12"
+        },
+        "model":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "lstm":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "xgboost":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        },
+        "arima":{
+            "original":[3891,3900,3880,3891,3900,3880,3915,3950,3940,null, null,null],
+            "predicted":[null, null, null,null, null, null, null, null,3942,3925,3910,3935]
+        }
+    }
+}

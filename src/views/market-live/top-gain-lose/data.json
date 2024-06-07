@@ -1,0 +1,90 @@
+[
+    {
+      "id": 6,
+      "Name": "HDFC BANK",
+      "volume": 15527914,
+      "Close": 1517.2,
+      "Open": 1487.5,
+      "High": 1519.9,
+      "Low": 1486.0,
+      "change": 24.600000000000136,
+      "percent": 1.6481307785073118
+    },
+    {
+      "id": 8,
+      "Name": "AXIS BANK",
+      "volume": 8813649,
+      "Close": 1174.0,
+      "Open": 1165.5,
+      "High": 1177.0,
+      "Low": 1160.6,
+      "change": 8.75,
+      "percent": 0.7509118214975327
+    },
+    {
+      "id": 1,
+      "Name": "ADANI ENTERPRISES",
+      "volume": 3473342,
+      "Close": 3384.95,
+      "Open": 3406.0,
+      "High": 3457.85,
+      "Low": 3355.6,
+      "change": -2.350000000000364,
+      "percent": -0.0693767897735767
+    },
+    {
+      "id": 7,
+      "Name": "ICICI BANK",
+      "volume": 6307867,
+      "Close": 1131.95,
+      "Open": 1130.0,
+      "High": 1135.0,
+      "Low": 1124.15,
+      "change": -2.5499999999999545,
+      "percent": -0.22476862053767777
+    },
+    {
+      "id": 5,
+      "Name": "WIPRO LTD",
+      "volume": 4100344,
+      "Close": 463.65,
+      "Open": 467.0,
+      "High": 470.5,
+      "Low": 462.0,
+      "change": -2.150000000000034,
+      "percent": -0.46157148990983987
+    },
+    {
+      "id": 3,
+      "Name": "APOLLO HOSPITALS.",
+      "volume": 608802,
+      "Close": 5914.35,
+      "Open": 5938.3,
+      "High": 5971.85,
+      "Low": 5867.0,
+      "change": -55.69999999999982,
+      "percent": -0.9329905109672418
+    },
+    {
+      "id": 4,
+      "Name": "ASIAN PAINTS LTD",
+      "volume": 755387,
+      "Close": 2874.75,
+      "Open": 2910.2,
+      "High": 2910.2,
+      "Low": 2867.0,
+      "change": -29.0,
+      "percent": -0.9987085665088248
+    },
+    {
+      "id": 2,
+      "Name": "ADANI PORT SPECIAL",
+      "volume": 19097348,
+      "Close": 1416.1,
+      "Open": 1435.0,
+      "High": 1444.95,
+      "Low": 1382.15,
+      "change": -27.25,
+      "percent": -1.887968961097447
+    }
+  ]

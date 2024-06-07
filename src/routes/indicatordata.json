@@ -1,0 +1,2493 @@
+{
+    "APOLLOHOSP.NS": {
+        "daydata":{
+            "name":"Apollo Hospitals",
+            "price":"₹ 5,992" ,
+            "change":"0.12"
+        },
+        "bar":{
+            "buy":[100, 32, 33, 52, 13, 43, 32],
+            "neutral":[100, 17, 11, 9, 15, 11, 20],
+            "sell":[100, 7, 5, 8, 6, 9, 4]
+        },
+        "min_5":{
+            "oscillator":{
+                "recommond":"Sell",
+                "table":[
+                    {
+                      "Name": "Relative Strength Index (14)",
+                      "Value": "37.05",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Stochastic %K (14, 3, 3)",
+                      "Value": "46.93",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Commodity Channel Index (20)",
+                      "Value": "−56.14",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Average Directional Index (14)",
+                      "Value": "24.35",
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Awesome Oscillator",
+                      "Value": "8.39",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Momentum (10)",
+                      "Value": "−6.00",
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "MACD Level (12, 26)",
+                      "Value": "1.48",
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                      "Value": "43.76",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Williams Percent Range (14)",
+                      "Value": "−100.00",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Bull Bear Power",
+                      "Value": "−8.30",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Ultimate Oscillator (7, 14, 28)",
+                      "Value": "46.21",
+                      "Action": "Neutral"
+                    }
+                ],
+                "piedata":[3,8,0]
+            },
+            "Moving":{
+                "recommond":"Strong sell",
+                "table":[
+                    {
+                      "Name": "Exponential Moving Average (10)",
+                      "Value": 5899.65,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (10)",
+                      "Value": 5902.97,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (20)",
+                      "Value": 5898.33,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (20)",
+                      "Value": 5896.86,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (30)",
+                      "Value": 5898.05,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (30)",
+                      "Value": 5894.34,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (50)",
+                      "Value": 5900.57,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (50)",
+                      "Value": 5895.73,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (100)",
+                      "Value": 5908.35,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (100)",
+                      "Value": 5914.45,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (200)",
+                      "Value": 5914.88,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (200)",
+                      "Value": 5918.48,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                      "Value": 5898.4,
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Volume Weighted Moving Average (20)",
+                      "Value": 5898.19,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Hull Moving Average (9)",
+                      "Value": 5898.73,
+                      "Action": "Sell"
+                    }
+                   ],
+                "piedata":[14,1,0]
+            },
+            
+            "pivottable":[
+                {
+                  "Pivot": "S3",
+                  "Classic": 5856.13,
+                  "Fibonacci": 5897.63,
+                  "Camarilla": 5928.49,
+                  "Woodie": 5881.9,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "S2",
+                  "Classic": 5897.63,
+                  "Fibonacci": 5913.49,
+                  "Camarilla": 5932.29,
+                  "Woodie": 5899.95,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "S1",
+                  "Classic": 5918.77,
+                  "Fibonacci": 5923.28,
+                  "Camarilla": 5936.1,
+                  "Woodie": 5923.4,
+                  "DM": "5908.20"
+                },
+                {
+                  "Pivot": "P",
+                  "Classic": 5939.13,
+                  "Fibonacci": 5939.13,
+                  "Camarilla": 5939.13,
+                  "Woodie": 5941.45,
+                  "DM": "5933.85"
+                },
+                {
+                  "Pivot": "R1",
+                  "Classic": 5960.27,
+                  "Fibonacci": 5954.99,
+                  "Camarilla": 5943.7,
+                  "Woodie": 5964.9,
+                  "DM": "5949.70"
+                },
+                {
+                  "Pivot": "R2",
+                  "Classic": 5980.63,
+                  "Fibonacci": 5964.78,
+                  "Camarilla": 5947.51,
+                  "Woodie": 5982.95,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "R3",
+                  "Classic": 6022.13,
+                  "Fibonacci": 5980.63,
+                  "Camarilla": 5951.31,
+                  "Woodie": 6006.4,
+                  "DM": "—"
+                }
+               ]
+        },
+        "min_30":{
+            "oscillator":{
+                "recommond":"Sell",
+                "piedata":[2,9,0],
+                "table":[
+                    {
+                      "Name": "Relative Strength Index (14)",
+                      "Value": "36.39",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Stochastic %K (14, 3, 3)",
+                      "Value": "18.71",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Commodity Channel Index (20)",
+                      "Value": "−80.93",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Average Directional Index (14)",
+                      "Value": "11.61",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Awesome Oscillator",
+                      "Value": "−23.88",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Momentum (10)",
+                      "Value": "−31.95",
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "MACD Level (12, 26)",
+                      "Value": "−9.74",
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                      "Value": "36.89",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Williams Percent Range (14)",
+                      "Value": "−95.94",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Bull Bear Power",
+                      "Value": "−12.81",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Ultimate Oscillator (7, 14, 28)",
+                      "Value": "47.55",
+                      "Action": "Neutral"
+                    }
+                   ]
+            },
+            "Moving":{
+                "recommond":"Strong sell",
+                "piedata":[14,1,0],
+                "table":[
+                    {
+                      "Name": "Exponential Moving Average (10)",
+                      "Value": 5900.33,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (10)",
+                      "Value": 5896.78,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (20)",
+                      "Value": 5909.31,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (20)",
+                      "Value": 5917.07,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (30)",
+                      "Value": 5913.71,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (30)",
+                      "Value": 5922.18,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (50)",
+                      "Value": 5916.71,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (50)",
+                      "Value": 5924.16,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (100)",
+                      "Value": 5916.19,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (100)",
+                      "Value": 5925.67,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (200)",
+                      "Value": 5936.26,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (200)",
+                      "Value": 5890.73,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                      "Value": 5925.88,
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Volume Weighted Moving Average (20)",
+                      "Value": 5911.3,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Hull Moving Average (9)",
+                      "Value": 5897.73,
+                      "Action": "Sell"
+                    }
+                   ]
+                
+            },
+            "pivottable":[
+                {
+                  "Pivot": "S3",
+                  "Classic": 5558.38,
+                  "Fibonacci": 5755.33,
+                  "Camarilla": 5915.84,
+                  "Woodie": 5654.58,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "S2",
+                  "Classic": 5755.33,
+                  "Fibonacci": 5830.57,
+                  "Camarilla": 5933.89,
+                  "Woodie": 5749.76,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "S1",
+                  "Classic": 5862.67,
+                  "Fibonacci": 5877.05,
+                  "Camarilla": 5951.95,
+                  "Woodie": 5851.53,
+                  "DM": "5809.00"
+                },
+                {
+                  "Pivot": "P",
+                  "Classic": 5952.28,
+                  "Fibonacci": 5952.28,
+                  "Camarilla": 5952.28,
+                  "Woodie": 5946.71,
+                  "DM": "5925.45"
+                },
+                {
+                  "Pivot": "R1",
+                  "Classic": 6059.62,
+                  "Fibonacci": 6027.52,
+                  "Camarilla": 5988.05,
+                  "Woodie": 6048.47,
+                  "DM": "6005.95"
+                },
+                {
+                  "Pivot": "R2",
+                  "Classic": 6149.23,
+                  "Fibonacci": 6074,
+                  "Camarilla": 6006.11,
+                  "Woodie": 6143.66,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "R3",
+                  "Classic": 6346.18,
+                  "Fibonacci": 6149.23,
+                  "Camarilla": 6024.16,
+                  "Woodie": 6245.42,
+                  "DM": "—"
+                }
+               ]
+
+        },
+        "hour4":{
+            "oscillator":{
+                "recommond":"Buy",
+                "piedata":[0,8,3],
+                "table":[
+                    {
+                      "Name": "Relative Strength Index (14)",
+                      "Value": "43.72",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Stochastic %K (14, 3, 3)",
+                      "Value": "25.20",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Commodity Channel Index (20)",
+                      "Value": "−49.18",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Average Directional Index (14)",
+                      "Value": "14.19",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Awesome Oscillator",
+                      "Value": "20.74",
+                      "Action": "Buy"
+                    },
+                    {
+                      "Name": "Momentum (10)",
+                      "Value": "−48.30",
+                      "Action": "Buy"
+                    },
+                    {
+                      "Name": "MACD Level (12, 26)",
+                      "Value": "−11.66",
+                      "Action": "Buy"
+                    },
+                    {
+                      "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                      "Value": "40.09",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Williams Percent Range (14)",
+                      "Value": "−83.39",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Bull Bear Power",
+                      "Value": "−38.43",
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Ultimate Oscillator (7, 14, 28)",
+                      "Value": "45.29",
+                      "Action": "Neutral"
+                    }
+                   ]
+            },
+            "Moving":{
+                "recommond":"Strong sell",
+                "piedata":[14,1,0],
+                "table":[
+                    {
+                      "Name": "Exponential Moving Average (10)",
+                      "Value": 5917.29,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (10)",
+                      "Value": 5919.15,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (20)",
+                      "Value": 5920.78,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (20)",
+                      "Value": 5915.99,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (30)",
+                      "Value": 5937.15,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (30)",
+                      "Value": 5891.36,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (50)",
+                      "Value": 5985.33,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (50)",
+                      "Value": 5977.38,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (100)",
+                      "Value": 6060.55,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (100)",
+                      "Value": 6124.71,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Exponential Moving Average (200)",
+                      "Value": 6010.13,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Simple Moving Average (200)",
+                      "Value": 6165.09,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                      "Value": 5910,
+                      "Action": "Neutral"
+                    },
+                    {
+                      "Name": "Volume Weighted Moving Average (20)",
+                      "Value": 5909.79,
+                      "Action": "Sell"
+                    },
+                    {
+                      "Name": "Hull Moving Average (9)",
+                      "Value": 5907.49,
+                      "Action": "Sell"
+                    }
+                   ]
+                
+            },
+            "pivottable":[
+                {
+                  "Pivot": "S3",
+                  "Classic": 5558.38,
+                  "Fibonacci": 5755.33,
+                  "Camarilla": 5915.84,
+                  "Woodie": 5654.58,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "S2",
+                  "Classic": 5755.33,
+                  "Fibonacci": 5830.57,
+                  "Camarilla": 5933.89,
+                  "Woodie": 5749.76,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "S1",
+                  "Classic": 5862.67,
+                  "Fibonacci": 5877.05,
+                  "Camarilla": 5951.95,
+                  "Woodie": 5851.53,
+                  "DM": "5809.00"
+                },
+                {
+                  "Pivot": "P",
+                  "Classic": 5952.28,
+                  "Fibonacci": 5952.28,
+                  "Camarilla": 5952.28,
+                  "Woodie": 5946.71,
+                  "DM": "5925.45"
+                },
+                {
+                  "Pivot": "R1",
+                  "Classic": 6059.62,
+                  "Fibonacci": 6027.52,
+                  "Camarilla": 5988.05,
+                  "Woodie": 6048.47,
+                  "DM": "6005.95"
+                },
+                {
+                  "Pivot": "R2",
+                  "Classic": 6149.23,
+                  "Fibonacci": 6074,
+                  "Camarilla": 6006.11,
+                  "Woodie": 6143.66,
+                  "DM": "—"
+                },
+                {
+                  "Pivot": "R3",
+                  "Classic": 6346.18,
+                  "Fibonacci": 6149.23,
+                  "Camarilla": 6024.16,
+                  "Woodie": 6245.42,
+                  "DM": "—"
+                }
+               ]
+
+        }
+    },
+    "ASIANPAINT.NS": {
+        "daydata":{
+            "name":"Asian Paints",
+            "price":"₹ 5,992" ,
+            "change":"0.12"
+        },
+        "bar":{
+            "5_min":[17,9,0],
+            "30_min":[16,10,0]
+        },
+        "min_5":{
+            "oscillator":{
+                "recommond":"Buy",
+                "piedata":[0,8,3],
+                "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "67.98",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "72.58",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "207.90",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "41.17",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "5.33",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "13.05",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "4.10",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "60.36",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−4.66",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "13.67",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "56.76",
+                    "Action": "Neutral"
+                  }
+                 ]
+                
+            },
+            "Moving":{
+                "recommond":"Strong Buy",
+                "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 2910.44,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 2909.53,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 2907.54,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 2908.94,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 2904.59,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 2904.5,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 2899.64,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 2897.63,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 2892.75,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 2887.92,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 2887.22,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 2884.13,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 2905.5,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 2911.96,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 2912.77,
+                    "Action": "Buy"
+                  }
+                 ],
+                "piedata":[1,1,14]
+            },
+            
+            "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 2791.07,
+                "Fibonacci": 2833.82,
+                "Camarilla": 2864.09,
+                "Woodie": 2811.72,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 2833.82,
+                "Fibonacci": 2850.15,
+                "Camarilla": 2868.01,
+                "Woodie": 2833.64,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 2854.83,
+                "Fibonacci": 2860.24,
+                "Camarilla": 2871.93,
+                "Woodie": 2854.47,
+                "DM": "2844.33"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 2876.57,
+                "Fibonacci": 2876.57,
+                "Camarilla": 2876.57,
+                "Woodie": 2876.39,
+                "DM": "2871.31"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 2897.58,
+                "Fibonacci": 2892.9,
+                "Camarilla": 2879.77,
+                "Woodie": 2897.22,
+                "DM": "2887.08"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 2919.32,
+                "Fibonacci": 2902.99,
+                "Camarilla": 2883.69,
+                "Woodie": 2919.14,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 2962.07,
+                "Fibonacci": 2919.32,
+                "Camarilla": 2887.61,
+                "Woodie": 2939.97,
+                "DM": "—"
+              }
+             ]
+        },
+        "min_30":{
+            "oscillator":{
+                "recommond":"Buy",
+                "piedata":[0,9,2],
+                "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "68.73",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "81.52",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "173.40",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "19.52",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "21.43",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "38.05",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "7.25",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "89.28",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−1.75",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "27.32",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "55.80",
+                    "Action": "Neutral"
+                  }
+                 ]
+            },
+            "Moving":{
+                "recommond":"Strong Buy",
+                "piedata":[0,1,14],
+                "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 2899.7,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 2897.33,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 2892.65,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 2888.54,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 2889.25,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 2884.59,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 2883.79,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 2886.71,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 2872.64,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 2864.77,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 2864.5,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 2850.95,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 2888.28,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 2893.9,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 2913.14,
+                    "Action": "Buy"
+                  }
+                 ]
+                
+            },
+            "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 2623.58,
+                "Fibonacci": 2743.83,
+                "Camarilla": 2836.93,
+                "Woodie": 2707.52,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 2743.83,
+                "Fibonacci": 2789.77,
+                "Camarilla": 2847.95,
+                "Woodie": 2754.26,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 2806.92,
+                "Fibonacci": 2818.15,
+                "Camarilla": 2858.98,
+                "Woodie": 2827.77,
+                "DM": "2835.50"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 2864.08,
+                "Fibonacci": 2864.08,
+                "Camarilla": 2864.08,
+                "Woodie": 2874.51,
+                "DM": "2878.38"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 2927.17,
+                "Fibonacci": 2910.02,
+                "Camarilla": 2881.02,
+                "Woodie": 2948.02,
+                "DM": "2955.75"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 2984.33,
+                "Fibonacci": 2938.4,
+                "Camarilla": 2892.05,
+                "Woodie": 2994.76,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 3104.58,
+                "Fibonacci": 2984.33,
+                "Camarilla": 2903.07,
+                "Woodie": 3068.27,
+                "DM": "—"
+              }
+             ]
+
+        },
+        "hour4":{
+            "oscillator":{
+                "recommond":"Buy",
+                "piedata":[0,8,3],
+                "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "61.28",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "81.71",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "116.29",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "13.71",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "25.46",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "73.00",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "12.48",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "81.00",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−1.00",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "53.73",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "55.70",
+                    "Action": "Neutral"
+                  }
+                 ]
+            },
+            "Moving":{
+                "recommond":"Strong Buyy",
+                "piedata":[2,1,12],
+                "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 2883.79,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 2888.36,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 2871.07,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 2858.24,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 2866.36,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 2849.06,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 2864.35,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 2865.1,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 2880.21,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 2859.73,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 2941.37,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 2953.22,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 2795.68,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 2856.14,
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 2894.8,
+                    "Action": "Buy"
+                  }
+                 ]
+                
+            },
+            "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 2623.58,
+                "Fibonacci": 2743.83,
+                "Camarilla": 2836.93,
+                "Woodie": 2707.52,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 2743.83,
+                "Fibonacci": 2789.77,
+                "Camarilla": 2847.95,
+                "Woodie": 2754.26,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 2806.92,
+                "Fibonacci": 2818.15,
+                "Camarilla": 2858.98,
+                "Woodie": 2827.77,
+                "DM": "2835.50"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 2864.08,
+                "Fibonacci": 2864.08,
+                "Camarilla": 2864.08,
+                "Woodie": 2874.51,
+                "DM": "2878.38"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 2927.17,
+                "Fibonacci": 2910.02,
+                "Camarilla": 2881.02,
+                "Woodie": 2948.02,
+                "DM": "2955.75"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 2984.33,
+                "Fibonacci": 2938.4,
+                "Camarilla": 2892.05,
+                "Woodie": 2994.76,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 3104.58,
+                "Fibonacci": 2984.33,
+                "Camarilla": 2903.07,
+                "Woodie": 3068.27,
+                "DM": "—"
+              }
+             ]
+
+        }
+
+    },
+    "AXISBANK.NS": {
+      "daydata":{
+        "name":"Axis Bank",
+        "price":"₹1177" ,
+        "change":"0.36"
+      },
+      "bar":{
+          "5_min":[17,9,0],
+          "30_min":[16,10,0]
+      },
+      "min_5":{
+          "oscillator":{
+              "recommond":"Sell",
+              "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "37.05",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "46.93",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "−56.14",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "24.35",
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "8.39",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "−6.00",
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "1.48",
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "43.76",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−100.00",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "−8.30",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "46.21",
+                    "Action": "Neutral"
+                  }
+              ],
+              "piedata":[3,8,0]
+          },
+          "Moving":{
+              "recommond":"Strong sell",
+              "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 5899.65,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 5902.97,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 5898.33,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 5896.86,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 5898.05,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 5894.34,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 5900.57,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 5895.73,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 5908.35,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 5914.45,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 5914.88,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 5918.48,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 5898.4,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 5898.19,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 5898.73,
+                    "Action": "Sell"
+                  }
+                 ],
+              "piedata":[14,1,0]
+          },
+          
+          "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 5856.13,
+                "Fibonacci": 5897.63,
+                "Camarilla": 5928.49,
+                "Woodie": 5881.9,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 5897.63,
+                "Fibonacci": 5913.49,
+                "Camarilla": 5932.29,
+                "Woodie": 5899.95,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 5918.77,
+                "Fibonacci": 5923.28,
+                "Camarilla": 5936.1,
+                "Woodie": 5923.4,
+                "DM": "5908.20"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 5939.13,
+                "Fibonacci": 5939.13,
+                "Camarilla": 5939.13,
+                "Woodie": 5941.45,
+                "DM": "5933.85"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 5960.27,
+                "Fibonacci": 5954.99,
+                "Camarilla": 5943.7,
+                "Woodie": 5964.9,
+                "DM": "5949.70"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 5980.63,
+                "Fibonacci": 5964.78,
+                "Camarilla": 5947.51,
+                "Woodie": 5982.95,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 6022.13,
+                "Fibonacci": 5980.63,
+                "Camarilla": 5951.31,
+                "Woodie": 6006.4,
+                "DM": "—"
+              }
+             ]
+      },
+      "min_30":{
+          "oscillator":{
+              "recommond":"Sell",
+              "piedata":[2,9,0],
+              "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "36.39",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "18.71",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "−80.93",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "11.61",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "−23.88",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "−31.95",
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "−9.74",
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "36.89",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−95.94",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "−12.81",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "47.55",
+                    "Action": "Neutral"
+                  }
+                 ]
+          },
+          "Moving":{
+              "recommond":"Strong sell",
+              "piedata":[14,1,0],
+              "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 5900.33,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 5896.78,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 5909.31,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 5917.07,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 5913.71,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 5922.18,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 5916.71,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 5924.16,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 5916.19,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 5925.67,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 5936.26,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 5890.73,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 5925.88,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 5911.3,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 5897.73,
+                    "Action": "Sell"
+                  }
+                 ]
+              
+          },
+          "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 5558.38,
+                "Fibonacci": 5755.33,
+                "Camarilla": 5915.84,
+                "Woodie": 5654.58,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 5755.33,
+                "Fibonacci": 5830.57,
+                "Camarilla": 5933.89,
+                "Woodie": 5749.76,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 5862.67,
+                "Fibonacci": 5877.05,
+                "Camarilla": 5951.95,
+                "Woodie": 5851.53,
+                "DM": "5809.00"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 5952.28,
+                "Fibonacci": 5952.28,
+                "Camarilla": 5952.28,
+                "Woodie": 5946.71,
+                "DM": "5925.45"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 6059.62,
+                "Fibonacci": 6027.52,
+                "Camarilla": 5988.05,
+                "Woodie": 6048.47,
+                "DM": "6005.95"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 6149.23,
+                "Fibonacci": 6074,
+                "Camarilla": 6006.11,
+                "Woodie": 6143.66,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 6346.18,
+                "Fibonacci": 6149.23,
+                "Camarilla": 6024.16,
+                "Woodie": 6245.42,
+                "DM": "—"
+              }
+             ]
+
+      },
+      "hour4":{
+          "oscillator":{
+              "recommond":"Buy",
+              "piedata":[0,8,3],
+              "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "43.72",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "25.20",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "−49.18",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "14.19",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "20.74",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "−48.30",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "−11.66",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "40.09",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−83.39",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "−38.43",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "45.29",
+                    "Action": "Neutral"
+                  }
+                 ]
+          },
+          "Moving":{
+              "recommond":"Strong sell",
+              "piedata":[14,1,0],
+              "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 5917.29,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 5919.15,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 5920.78,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 5915.99,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 5937.15,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 5891.36,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 5985.33,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 5977.38,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 6060.55,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 6124.71,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 6010.13,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 6165.09,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 5910,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 5909.79,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 5907.49,
+                    "Action": "Sell"
+                  }
+                 ]
+              
+          },
+          "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 5558.38,
+                "Fibonacci": 5755.33,
+                "Camarilla": 5915.84,
+                "Woodie": 5654.58,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 5755.33,
+                "Fibonacci": 5830.57,
+                "Camarilla": 5933.89,
+                "Woodie": 5749.76,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 5862.67,
+                "Fibonacci": 5877.05,
+                "Camarilla": 5951.95,
+                "Woodie": 5851.53,
+                "DM": "5809.00"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 5952.28,
+                "Fibonacci": 5952.28,
+                "Camarilla": 5952.28,
+                "Woodie": 5946.71,
+                "DM": "5925.45"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 6059.62,
+                "Fibonacci": 6027.52,
+                "Camarilla": 5988.05,
+                "Woodie": 6048.47,
+                "DM": "6005.95"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 6149.23,
+                "Fibonacci": 6074,
+                "Camarilla": 6006.11,
+                "Woodie": 6143.66,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 6346.18,
+                "Fibonacci": 6149.23,
+                "Camarilla": 6024.16,
+                "Woodie": 6245.42,
+                "DM": "—"
+              }
+             ]
+
+      }
+    },
+    "BAJAJ-AUTO.NS": {
+      "daydata":{
+        "name":"Bajaj Auto",
+        "price":"₹8917" ,
+        "change":"1.1"
+      },
+      "bar":{
+        "5_min":[17,9,0],
+        "30_min":[16,10,0]
+      },
+      "min_5":{
+        "oscillator":{
+            "recommond":"Sell",
+            "table":[
+                {
+                  "Name": "Relative Strength Index (14)",
+                  "Value": "37.05",
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Stochastic %K (14, 3, 3)",
+                  "Value": "46.93",
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Commodity Channel Index (20)",
+                  "Value": "−56.14",
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Average Directional Index (14)",
+                  "Value": "24.35",
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Awesome Oscillator",
+                  "Value": "8.39",
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Momentum (10)",
+                  "Value": "−6.00",
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "MACD Level (12, 26)",
+                  "Value": "1.48",
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                  "Value": "43.76",
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Williams Percent Range (14)",
+                  "Value": "−100.00",
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Bull Bear Power",
+                  "Value": "−8.30",
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Ultimate Oscillator (7, 14, 28)",
+                  "Value": "46.21",
+                  "Action": "Neutral"
+                }
+            ],
+            "piedata":[3,8,0]
+        },
+        "Moving":{
+            "recommond":"Strong sell",
+            "table":[
+                {
+                  "Name": "Exponential Moving Average (10)",
+                  "Value": 5899.65,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Simple Moving Average (10)",
+                  "Value": 5902.97,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Exponential Moving Average (20)",
+                  "Value": 5898.33,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Simple Moving Average (20)",
+                  "Value": 5896.86,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Exponential Moving Average (30)",
+                  "Value": 5898.05,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Simple Moving Average (30)",
+                  "Value": 5894.34,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Exponential Moving Average (50)",
+                  "Value": 5900.57,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Simple Moving Average (50)",
+                  "Value": 5895.73,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Exponential Moving Average (100)",
+                  "Value": 5908.35,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Simple Moving Average (100)",
+                  "Value": 5914.45,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Exponential Moving Average (200)",
+                  "Value": 5914.88,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Simple Moving Average (200)",
+                  "Value": 5918.48,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                  "Value": 5898.4,
+                  "Action": "Neutral"
+                },
+                {
+                  "Name": "Volume Weighted Moving Average (20)",
+                  "Value": 5898.19,
+                  "Action": "Sell"
+                },
+                {
+                  "Name": "Hull Moving Average (9)",
+                  "Value": 5898.73,
+                  "Action": "Sell"
+                }
+               ],
+            "piedata":[14,1,0]
+        },
+        
+        "pivottable":[
+            {
+              "Pivot": "S3",
+              "Classic": 5856.13,
+              "Fibonacci": 5897.63,
+              "Camarilla": 5928.49,
+              "Woodie": 5881.9,
+              "DM": "—"
+            },
+            {
+              "Pivot": "S2",
+              "Classic": 5897.63,
+              "Fibonacci": 5913.49,
+              "Camarilla": 5932.29,
+              "Woodie": 5899.95,
+              "DM": "—"
+            },
+            {
+              "Pivot": "S1",
+              "Classic": 5918.77,
+              "Fibonacci": 5923.28,
+              "Camarilla": 5936.1,
+              "Woodie": 5923.4,
+              "DM": "5908.20"
+            },
+            {
+              "Pivot": "P",
+              "Classic": 5939.13,
+              "Fibonacci": 5939.13,
+              "Camarilla": 5939.13,
+              "Woodie": 5941.45,
+              "DM": "5933.85"
+            },
+            {
+              "Pivot": "R1",
+              "Classic": 5960.27,
+              "Fibonacci": 5954.99,
+              "Camarilla": 5943.7,
+              "Woodie": 5964.9,
+              "DM": "5949.70"
+            },
+            {
+              "Pivot": "R2",
+              "Classic": 5980.63,
+              "Fibonacci": 5964.78,
+              "Camarilla": 5947.51,
+              "Woodie": 5982.95,
+              "DM": "—"
+            },
+            {
+              "Pivot": "R3",
+              "Classic": 6022.13,
+              "Fibonacci": 5980.63,
+              "Camarilla": 5951.31,
+              "Woodie": 6006.4,
+              "DM": "—"
+            }
+           ]
+      },
+      "min_30":{
+          "oscillator":{
+              "recommond":"Sell",
+              "piedata":[2,9,0],
+              "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "36.39",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "18.71",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "−80.93",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "11.61",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "−23.88",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "−31.95",
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "−9.74",
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "36.89",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−95.94",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "−12.81",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "47.55",
+                    "Action": "Neutral"
+                  }
+                ]
+          },
+          "Moving":{
+              "recommond":"Strong sell",
+              "piedata":[14,1,0],
+              "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 5900.33,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 5896.78,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 5909.31,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 5917.07,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 5913.71,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 5922.18,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 5916.71,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 5924.16,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 5916.19,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 5925.67,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 5936.26,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 5890.73,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 5925.88,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 5911.3,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 5897.73,
+                    "Action": "Sell"
+                  }
+                ]
+              
+          },
+          "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 5558.38,
+                "Fibonacci": 5755.33,
+                "Camarilla": 5915.84,
+                "Woodie": 5654.58,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 5755.33,
+                "Fibonacci": 5830.57,
+                "Camarilla": 5933.89,
+                "Woodie": 5749.76,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 5862.67,
+                "Fibonacci": 5877.05,
+                "Camarilla": 5951.95,
+                "Woodie": 5851.53,
+                "DM": "5809.00"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 5952.28,
+                "Fibonacci": 5952.28,
+                "Camarilla": 5952.28,
+                "Woodie": 5946.71,
+                "DM": "5925.45"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 6059.62,
+                "Fibonacci": 6027.52,
+                "Camarilla": 5988.05,
+                "Woodie": 6048.47,
+                "DM": "6005.95"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 6149.23,
+                "Fibonacci": 6074,
+                "Camarilla": 6006.11,
+                "Woodie": 6143.66,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 6346.18,
+                "Fibonacci": 6149.23,
+                "Camarilla": 6024.16,
+                "Woodie": 6245.42,
+                "DM": "—"
+              }
+            ]
+
+      },
+      "hour4":{
+          "oscillator":{
+              "recommond":"Buy",
+              "piedata":[0,8,3],
+              "table":[
+                  {
+                    "Name": "Relative Strength Index (14)",
+                    "Value": "43.72",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Stochastic %K (14, 3, 3)",
+                    "Value": "25.20",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Commodity Channel Index (20)",
+                    "Value": "−49.18",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Average Directional Index (14)",
+                    "Value": "14.19",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Awesome Oscillator",
+                    "Value": "20.74",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Momentum (10)",
+                    "Value": "−48.30",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "MACD Level (12, 26)",
+                    "Value": "−11.66",
+                    "Action": "Buy"
+                  },
+                  {
+                    "Name": "Stochastic RSI Fast (3, 3, 14, 14)",
+                    "Value": "40.09",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Williams Percent Range (14)",
+                    "Value": "−83.39",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Bull Bear Power",
+                    "Value": "−38.43",
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Ultimate Oscillator (7, 14, 28)",
+                    "Value": "45.29",
+                    "Action": "Neutral"
+                  }
+                ]
+          },
+          "Moving":{
+              "recommond":"Strong sell",
+              "piedata":[14,1,0],
+              "table":[
+                  {
+                    "Name": "Exponential Moving Average (10)",
+                    "Value": 5917.29,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (10)",
+                    "Value": 5919.15,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (20)",
+                    "Value": 5920.78,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (20)",
+                    "Value": 5915.99,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (30)",
+                    "Value": 5937.15,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (30)",
+                    "Value": 5891.36,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (50)",
+                    "Value": 5985.33,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (50)",
+                    "Value": 5977.38,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (100)",
+                    "Value": 6060.55,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (100)",
+                    "Value": 6124.71,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Exponential Moving Average (200)",
+                    "Value": 6010.13,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Simple Moving Average (200)",
+                    "Value": 6165.09,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Ichimoku Base Line (9, 26, 52, 26)",
+                    "Value": 5910,
+                    "Action": "Neutral"
+                  },
+                  {
+                    "Name": "Volume Weighted Moving Average (20)",
+                    "Value": 5909.79,
+                    "Action": "Sell"
+                  },
+                  {
+                    "Name": "Hull Moving Average (9)",
+                    "Value": 5907.49,
+                    "Action": "Sell"
+                  }
+                ]
+              
+          },
+          "pivottable":[
+              {
+                "Pivot": "S3",
+                "Classic": 5558.38,
+                "Fibonacci": 5755.33,
+                "Camarilla": 5915.84,
+                "Woodie": 5654.58,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S2",
+                "Classic": 5755.33,
+                "Fibonacci": 5830.57,
+                "Camarilla": 5933.89,
+                "Woodie": 5749.76,
+                "DM": "—"
+              },
+              {
+                "Pivot": "S1",
+                "Classic": 5862.67,
+                "Fibonacci": 5877.05,
+                "Camarilla": 5951.95,
+                "Woodie": 5851.53,
+                "DM": "5809.00"
+              },
+              {
+                "Pivot": "P",
+                "Classic": 5952.28,
+                "Fibonacci": 5952.28,
+                "Camarilla": 5952.28,
+                "Woodie": 5946.71,
+                "DM": "5925.45"
+              },
+              {
+                "Pivot": "R1",
+                "Classic": 6059.62,
+                "Fibonacci": 6027.52,
+                "Camarilla": 5988.05,
+                "Woodie": 6048.47,
+                "DM": "6005.95"
+              },
+              {
+                "Pivot": "R2",
+                "Classic": 6149.23,
+                "Fibonacci": 6074,
+                "Camarilla": 6006.11,
+                "Woodie": 6143.66,
+                "DM": "—"
+              },
+              {
+                "Pivot": "R3",
+                "Classic": 6346.18,
+                "Fibonacci": 6149.23,
+                "Camarilla": 6024.16,
+                "Woodie": 6245.42,
+                "DM": "—"
+              }
+            ]
+
+      }
+    }
+  }

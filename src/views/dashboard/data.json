@@ -1,0 +1,711 @@
+{
+    "index_data": [
+      {
+        "Name": "NIFTY50",
+        "Symbol": "^NSEI",
+        "Close": 22604.849609375,
+        "High": 22783.349609375,
+        "Low": 22568.400390625,
+        "change": -38.55078125,
+        "percent": -0.170251731563962
+      },
+      {
+        "Name": "BANK-NIFTY",
+        "Symbol": "^NSEBANK",
+        "Close": 49396.75,
+        "High": 49974.75,
+        "Low": 49249.8984375,
+        "change": -27.30078125,
+        "percent": -0.05523784638946894
+      },
+      {
+        "Name": "SENSEX",
+        "Symbol": "^BSESN",
+        "Close": 74482.78125,
+        "High": 75111.390625,
+        "Low": 74346.3984375,
+        "change": -188.5,
+        "percent": -0.25243975574612226
+      },
+      {
+        "Name": "BANK-NIFTY",
+        "Symbol": "^NSEBANK",
+        "Close": 49396.75,
+        "High": 49974.75,
+        "Low": 49249.8984375,
+        "change": -27.30078125,
+        "percent": -0.05523784638946894
+      }
+    ],
+    "chart_table": [
+      {
+        "Name": "NIFTY50",
+        "Symbol": "^NSEI",
+        "Close": 22604.849609375,
+        "High": 22783.349609375,
+        "Low": 22568.400390625,
+        "change": -38.55078125,
+        "percent": -0.170251731563962
+      },
+      {
+        "Name": "SENSEX",
+        "Symbol": "^BSESN",
+        "Close": 74482.78125,
+        "High": 75111.390625,
+        "Low": 74346.3984375,
+        "change": -188.5,
+        "percent": -0.25243975574612226
+      },
+      {
+        "Name": "BANK-NIFTY",
+        "Symbol": "^NSEBANK",
+        "Close": 49396.75,
+        "High": 49974.75,
+        "Low": 49249.8984375,
+        "change": -27.30078125,
+        "percent": -0.05523784638946894
+      },
+      {
+        "Name": "NIFTY-IT",
+        "Symbol": "^CNXIT",
+        "Close": 33200.94921875,
+        "High": 33688.94921875,
+        "Low": 33145.8984375,
+        "change": -378.44921875,
+        "percent": -1.1270279884685621
+      },
+      {
+        "Name": "NIFTY-FINANCE",
+        "Symbol": "NIFTY_FIN_SERVICE.NS",
+        "Close": 21841.150390625,
+        "High": 22073.69921875,
+        "Low": 21779.19921875,
+        "change": 29.951171875,
+        "percent": 0.13732015179271972
+      },
+      {
+        "Name": "NIFTY-ENERGY",
+        "Symbol": "^CNXENERGY",
+        "Close": 40366.69921875,
+        "High": 40771.3515625,
+        "Low": 40311.3515625,
+        "change": 14.59765625,
+        "percent": 0.036175702589839556
+      }
+    ],
+    "chart_data": {
+      "time": [
+        "09:15", "09:30", "09:45", "10:00", "10:15", "10:30", "10:45", "11:00",
+        "11:15", "11:30", "11:45", "12:00", "12:15", "12:30", "12:45", "13:00",
+        "13:15", "13:30", "13:45", "14:00", "14:15", "14:30", "14:45", "15:00",
+        "15:15"
+      ],
+      "NIFTY50": [
+        22679, 22706, 22746, 22727, 22733, 22743, 22745, 22734, 22729, 22735,
+        22745, 22745, 22747, 22742, 22738, 22715, 22733, 22740, 22739, 22768,
+        22773, 22744, 22694, 22604, 22588
+      ],
+      "SENSEX": [
+        74747, 74833, 74982, 74919, 74966, 74980, 74982, 74959, 74938, 74962,
+        74980, 74986, 74978, 74959, 74950, 74865, 74916, 74939, 74918, 75065,
+        75079, 74982, 74806, 74479, 74483
+      ],
+      "BANK-NIFTY": [
+        49402, 49396, 49639, 49504, 49563, 49558, 49601, 49588, 49543, 49576,
+        49570, 49563, 49530, 49525, 49515, 49463, 49483, 49518, 49576, 49913,
+        49936, 49818, 49617, 49410, 49291
+      ],
+      "NIFTY-IT": [
+        33550, 33657, 33602, 33552, 33528, 33511, 33475, 33444, 33446, 33447,
+        33464, 33486, 33505, 33471, 33465, 33441, 33467, 33455, 33448, 33429,
+        33432, 33401, 33362, 33187, 33212
+      ],
+      "NIFTY-FINANCE": [
+        21811, 21819, 21915, 21878, 21901, 21908, 21950, 21935, 21916, 21931,
+        21943, 21950, 21942, 21938, 21915, 21888, 21892, 21915, 21926, 22021,
+        22058, 22026, 21946, 21834, 21802
+      ],
+      "NIFTY-ENERGY": [
+        40487, 40537, 40649, 40621, 40562, 40565, 40545, 40586, 40585, 40650,
+        40693, 40689, 40708, 40757, 40724, 40633, 40709, 40720, 40753, 40699,
+        40706, 40501, 40479, 40383, 40355
+      ]
+    },
+    "top_gainers": [
+      {
+        "Name": "Mahindra",
+        "Symbol": "M&M.NS",
+        "Close": 2156.35009765625,
+        "High": 2169.0,
+        "Low": 2073.050048828125,
+        "change": 94.300048828125,
+        "percent": 4.573121243187878
+      },
+      {
+        "Name": "Power Grid",
+        "Symbol": "POWERGRID.NS",
+        "Close": 301.8500061035156,
+        "High": 304.3500061035156,
+        "Low": 293.04998779296875,
+        "change": 8.149993896484375,
+        "percent": 2.7749382219090224
+      },
+      {
+        "Name": "Shriram Finance",
+        "Symbol": "SHRIRAMFIN.NS",
+        "Close": 2551.699951171875,
+        "High": 2578.800048828125,
+        "Low": 2484.0,
+        "change": 59.5,
+        "percent": 2.3874488871577935
+      },
+      {
+        "Name": "Hero MotoCorp",
+        "Symbol": "HEROMOTOCO.NS",
+        "Close": 4543.0498046875,
+        "High": 4588.2001953125,
+        "Low": 4465.0,
+        "change": 85.349609375,
+        "percent": 1.9146556662727001
+      },
+      {
+        "Name": "IndusInd Bank",
+        "Symbol": "INDUSINDBK.NS",
+        "Close": 1515.699951171875,
+        "High": 1537.0,
+        "Low": 1489.0,
+        "change": 28.449951171875,
+        "percent": 1.9129232591612038
+      },
+      {
+        "Name": "Bajaj Auto",
+        "Symbol": "BAJAJ-AUTO.NS",
+        "Close": 8903.650390625,
+        "High": 8966.0,
+        "Low": 8795.0,
+        "change": 143.55078125,
+        "percent": 1.6386889150937611
+      }
+    ],
+    "top_losers": [
+      {
+        "Name": "Tech Mahindra",
+        "Symbol": "TECHM.NS",
+        "Close": 1263.5,
+        "High": 1291.0999755859375,
+        "Low": 1260.050048828125,
+        "change": -24.800048828125,
+        "percent": -1.9250211820362688
+      },
+      {
+        "Name": "Bharat Petroleum",
+        "Symbol": "BPCL.NS",
+        "Close": 607.3499755859375,
+        "High": 624.5499877929688,
+        "Low": 603.4000244140625,
+        "change": -11.45001220703125,
+        "percent": -1.8503575360221352
+      },
+      {
+        "Name": "JSW Steel",
+        "Symbol": "JSWSTEEL.NS",
+        "Close": 882.2000122070312,
+        "High": 902.75,
+        "Low": 880.0499877929688,
+        "change": -13.54998779296875,
+        "percent": -1.5126974929353894
+      },
+      {
+        "Name": "HCL Technologies",
+        "Symbol": "HCLTECH.NS",
+        "Close": 1366.5999755859375,
+        "High": 1397.9000244140625,
+        "Low": 1362.449951171875,
+        "change": -20.800048828125,
+        "percent": -1.4992106430810708
+      },
+      {
+        "Name": "Dr. Reddy's Laboratories",
+        "Symbol": "DRREDDY.NS",
+        "Close": 6204.2998046875,
+        "High": 6313.0,
+        "Low": 6185.0,
+        "change": -92.80029296875,
+        "percent": -1.4736988697907123
+      },
+      {
+        "Name": "Tata Steel",
+        "Symbol": "TATASTEEL.NS",
+        "Close": 165.0,
+        "High": 168.39999389648438,
+        "Low": 164.5,
+        "change": -2.399993896484375,
+        "percent": -1.4336881624789461
+      }
+    ],
+    "bar": {
+      "percent": [
+         1.8169071646945594  ,  0.13732015179271972 ,  0.036175702589839556,
+        -0.05523784638946894 , -0.16849485550034762 , -0.170251731563962   ,
+        -0.25243975574612226 , -1.0033661526810322  , -1.1270279884685621
+      ],
+      "name": [
+        "NIFTYAUTO"    , "NIFTY-FINANCE", "NIFTY-ENERGY" , "BANK-NIFTY"   ,
+        "NIFTY-FMCG"   , "NIFTY50"      , "SENSEX"       , "NIFTY-METAL"  ,
+        "NIFTY-IT"
+      ]
+    },
+    "heat_map": [
+      {
+        "Name": "Mahindra",
+        "Symbol": "M&M.NS",
+        "Close": 2156.35009765625,
+        "High": 2169.0,
+        "Low": 2073.050048828125,
+        "change": 94.300048828125,
+        "percent": 4.573121243187878
+      },
+      {
+        "Name": "Power Grid",
+        "Symbol": "POWERGRID.NS",
+        "Close": 301.8500061035156,
+        "High": 304.3500061035156,
+        "Low": 293.04998779296875,
+        "change": 8.149993896484375,
+        "percent": 2.7749382219090224
+      },
+      {
+        "Name": "Shriram Finance",
+        "Symbol": "SHRIRAMFIN.NS",
+        "Close": 2551.699951171875,
+        "High": 2578.800048828125,
+        "Low": 2484.0,
+        "change": 59.5,
+        "percent": 2.3874488871577935
+      },
+      {
+        "Name": "Hero MotoCorp",
+        "Symbol": "HEROMOTOCO.NS",
+        "Close": 4543.0498046875,
+        "High": 4588.2001953125,
+        "Low": 4465.0,
+        "change": 85.349609375,
+        "percent": 1.9146556662727001
+      },
+      {
+        "Name": "IndusInd Bank",
+        "Symbol": "INDUSINDBK.NS",
+        "Close": 1515.699951171875,
+        "High": 1537.0,
+        "Low": 1489.0,
+        "change": 28.449951171875,
+        "percent": 1.9129232591612038
+      },
+      {
+        "Name": "Bajaj Auto",
+        "Symbol": "BAJAJ-AUTO.NS",
+        "Close": 8903.650390625,
+        "High": 8966.0,
+        "Low": 8795.0,
+        "change": 143.55078125,
+        "percent": 1.6386889150937611
+      },
+      {
+        "Name": "HDFC Life Insurance Company",
+        "Symbol": "HDFCLIFE.NS",
+        "Close": 583.6500244140625,
+        "High": 588.5,
+        "Low": 576.0499877929688,
+        "change": 8.550048828125,
+        "percent": 1.4867065190558961
+      },
+      {
+        "Name": "Bajaj Finance",
+        "Symbol": "BAJFINANCE.NS",
+        "Close": 6923.5498046875,
+        "High": 6975.0,
+        "Low": 6821.9501953125,
+        "change": 96.94970703125,
+        "percent": 1.4201755726768786
+      },
+      {
+        "Name": "Bajaj Finserv",
+        "Symbol": "BAJAJFINSV.NS",
+        "Close": 1615.0,
+        "High": 1633.949951171875,
+        "Low": 1591.300048828125,
+        "change": 19.3499755859375,
+        "percent": 1.2126704032761189
+      },
+      {
+        "Name": "Grasim Industries",
+        "Symbol": "GRASIM.NS",
+        "Close": 2411.64990234375,
+        "High": 2438.449951171875,
+        "Low": 2374.10009765625,
+        "change": 25.0498046875,
+        "percent": 1.04960209764929
+      },
+      {
+        "Name": "Maruti Suzuki",
+        "Symbol": "MARUTI.NS",
+        "Close": 12817.5,
+        "High": 12996.0,
+        "Low": 12740.2001953125,
+        "change": 127.650390625,
+        "percent": 1.0059251650287055
+      },
+      {
+        "Name": "SBI LIC",
+        "Symbol": "SBILIFE.NS",
+        "Close": 1436.550048828125,
+        "High": 1449.8499755859375,
+        "Low": 1423.199951171875,
+        "change": 14.2000732421875,
+        "percent": 0.9983529712044165
+      },
+      {
+        "Name": "Tata Consumer Products",
+        "Symbol": "TATACONSUM.NS",
+        "Close": 1108.3499755859375,
+        "High": 1114.25,
+        "Low": 1095.6500244140625,
+        "change": 9.8499755859375,
+        "percent": 0.896675064718935
+      },
+      {
+        "Name": "Tata Motors",
+        "Symbol": "TATAMOTORS.NS",
+        "Close": 1007.9000244140625,
+        "High": 1019.4500122070312,
+        "Low": 997.5,
+        "change": 7.300048828125,
+        "percent": 0.7295671603280015
+      },
+      {
+        "Name": "Adani Ports",
+        "Symbol": "ADANIPORTS.NS",
+        "Close": 1324.9000244140625,
+        "High": 1334.6500244140625,
+        "Low": 1316.25,
+        "change": 7.6500244140625,
+        "percent": 0.5807572149601443
+      },
+      {
+        "Name": "Axis Bank",
+        "Symbol": "AXISBANK.NS",
+        "Close": 1165.9000244140625,
+        "High": 1182.9000244140625,
+        "Low": 1155.1500244140625,
+        "change": 6.6500244140625,
+        "percent": 0.5736488603892603
+      },
+      {
+        "Name": "Eicher Motors",
+        "Symbol": "EICHERMOT.NS",
+        "Close": 4597.39990234375,
+        "High": 4689.9501953125,
+        "Low": 4578.0,
+        "change": 25.5498046875,
+        "percent": 0.5588504465751853
+      },
+      {
+        "Name": "Divi's Laboratories",
+        "Symbol": "DIVISLAB.NS",
+        "Close": 4002.39990234375,
+        "High": 4066.0,
+        "Low": 3973.60009765625,
+        "change": 13.14990234375,
+        "percent": 0.3296334484865576
+      },
+      {
+        "Name": "Asian Paints",
+        "Symbol": "ASIANPAINT.NS",
+        "Close": 2875.89990234375,
+        "High": 2912.0,
+        "Low": 2855.0,
+        "change": 7.699951171875,
+        "percent": 0.26845935788852493
+      },
+      {
+        "Name": "Coal India",
+        "Symbol": "COALINDIA.NS",
+        "Close": 454.29998779296875,
+        "High": 458.3999938964844,
+        "Low": 452.04998779296875,
+        "change": 1.04998779296875,
+        "percent": 0.23165753843767237
+      },
+      {
+        "Name": "Hindustan Unilever",
+        "Symbol": "HINDUNILVR.NS",
+        "Close": 2230.449951171875,
+        "High": 2240.25,
+        "Low": 2225.0,
+        "change": 4.349853515625,
+        "percent": 0.19540242238903563
+      },
+      {
+        "Name": "Reliance Industries",
+        "Symbol": "RELIANCE.NS",
+        "Close": 2934.0,
+        "High": 2966.14990234375,
+        "Low": 2925.75,
+        "change": 3.949951171875,
+        "percent": 0.134808317470713
+      },
+      {
+        "Name": "UltraTech Cement",
+        "Symbol": "ULTRACEMCO.NS",
+        "Close": 9971.849609375,
+        "High": 10180.0,
+        "Low": 9911.349609375,
+        "change": 7.3994140625,
+        "percent": 0.07425812681547497
+      },
+      {
+        "Name": "NTPC",
+        "Symbol": "NTPC.NS",
+        "Close": 363.20001220703125,
+        "High": 365.45001220703125,
+        "Low": 359.29998779296875,
+        "change": 0.20001220703125,
+        "percent": 0.055099781551308534
+      },
+      {
+        "Name": "State Bank of India",
+        "Symbol": "SBIN.NS",
+        "Close": 826.25,
+        "High": 834.8499755859375,
+        "Low": 819.9000244140625,
+        "change": -0.25,
+        "percent": -0.030248033877797946
+      },
+      {
+        "Name": "Nestle India",
+        "Symbol": "NESTLEIND.NS",
+        "Close": 2507.39990234375,
+        "High": 2537.60009765625,
+        "Low": 2500.550048828125,
+        "change": -2.400146484375,
+        "percent": -0.09563098404973239
+      },
+      {
+        "Name": "Wipro",
+        "Symbol": "WIPRO.NS",
+        "Close": 462.3999938964844,
+        "High": 466.75,
+        "Low": 461.5,
+        "change": -0.550018310546875,
+        "percent": -0.1188072785493106
+      },
+      {
+        "Name": "Oil & Natural Gas",
+        "Symbol": "ONGC.NS",
+        "Close": 282.8500061035156,
+        "High": 286.3500061035156,
+        "Low": 281.45001220703125,
+        "change": -0.350006103515625,
+        "percent": -0.1235897204904623
+      },
+      {
+        "Name": "Apollo Hospitals",
+        "Symbol": "APOLLOHOSP.NS",
+        "Close": 5947.10009765625,
+        "High": 6023.0,
+        "Low": 5901.0,
+        "change": -21.25,
+        "percent": -0.3560447971767742
+      },
+      {
+        "Name": "Titan Company",
+        "Symbol": "TITAN.NS",
+        "Close": 3589.25,
+        "High": 3619.5,
+        "Low": 3580.0,
+        "change": -15.60009765625,
+        "percent": -0.4327530197827823
+      },
+      {
+        "Name": "Britannia Industries",
+        "Symbol": "BRITANNIA.NS",
+        "Close": 4775.9501953125,
+        "High": 4825.0,
+        "Low": 4765.10009765625,
+        "change": -23.89990234375,
+        "percent": -0.49793018234924125
+      },
+      {
+        "Name": "Cipla",
+        "Symbol": "CIPLA.NS",
+        "Close": 1400.0,
+        "High": 1418.949951171875,
+        "Low": 1395.050048828125,
+        "change": -8.0,
+        "percent": -0.5681818181818182
+      },
+      {
+        "Name": "ITC",
+        "Symbol": "ITC.NS",
+        "Close": 435.6499938964844,
+        "High": 440.5,
+        "Low": 435.1000061035156,
+        "change": -2.550018310546875,
+        "percent": -0.5819302235304589
+      },
+      {
+        "Name": "HDFC Bank",
+        "Symbol": "HDFCBANK.NS",
+        "Close": 1520.0999755859375,
+        "High": 1539.5,
+        "Low": 1514.9000244140625,
+        "change": -9.4000244140625,
+        "percent": -0.6145815242930697
+      },
+      {
+        "Name": "Bharti Airtel",
+        "Symbol": "BHARTIARTL.NS",
+        "Close": 1322.300048828125,
+        "High": 1334.800048828125,
+        "Low": 1319.949951171875,
+        "change": -10.14990234375,
+        "percent": -0.7617473613041356
+      },
+      {
+        "Name": "LTIMindtree",
+        "Symbol": "LTIM.NS",
+        "Close": 4706.39990234375,
+        "High": 4778.60009765625,
+        "Low": 4699.9501953125,
+        "change": -37.55029296875,
+        "percent": -0.7915406238002555
+      },
+      {
+        "Name": "ICICI Bank",
+        "Symbol": "ICICIBANK.NS",
+        "Close": 1150.4000244140625,
+        "High": 1169.550048828125,
+        "Low": 1146.75,
+        "change": -9.75,
+        "percent": -0.8404085501721442
+      },
+      {
+        "Name": "Adani Enterprises",
+        "Symbol": "ADANIENT.NS",
+        "Close": 3054.699951171875,
+        "High": 3108.449951171875,
+        "Low": 3045.0,
+        "change": -26.5,
+        "percent": -0.8600545378407277
+      },
+      {
+        "Name": "Hindalco Industries",
+        "Symbol": "HINDALCO.NS",
+        "Close": 644.4000244140625,
+        "High": 653.7000122070312,
+        "Low": 642.2999877929688,
+        "change": -5.64996337890625,
+        "percent": -0.8691582932089338
+      },
+      {
+        "Name": "Infosys",
+        "Symbol": "INFY.NS",
+        "Close": 1420.550048828125,
+        "High": 1436.550048828125,
+        "Low": 1417.550048828125,
+        "change": -14.199951171875,
+        "percent": -0.9897160600714411
+      },
+      {
+        "Name": "Kotak Mahindra Bank",
+        "Symbol": "KOTAKBANK.NS",
+        "Close": 1623.949951171875,
+        "High": 1647.0,
+        "Low": 1620.0,
+        "change": -16.4500732421875,
+        "percent": -1.0028086440722488
+      },
+      {
+        "Name": "Larsen & Toubro",
+        "Symbol": "LT.NS",
+        "Close": 3594.300048828125,
+        "High": 3648.949951171875,
+        "Low": 3584.050048828125,
+        "change": -40.0,
+        "percent": -1.1006245896757463
+      },
+      {
+        "Name": "Tata Consultancy Services",
+        "Symbol": "TCS.NS",
+        "Close": 3820.64990234375,
+        "High": 3881.75,
+        "Low": 3810.0,
+        "change": -49.550048828125,
+        "percent": -1.2802968697553085
+      },
+      {
+        "Name": "Sun Pharmaceutical",
+        "Symbol": "SUNPHARMA.NS",
+        "Close": 1502.0999755859375,
+        "High": 1529.1500244140625,
+        "Low": 1497.0,
+        "change": -19.5,
+        "percent": -1.281545761887315
+      },
+      {
+        "Name": "Tata Steel",
+        "Symbol": "TATASTEEL.NS",
+        "Close": 165.0,
+        "High": 168.39999389648438,
+        "Low": 164.5,
+        "change": -2.399993896484375,
+        "percent": -1.4336881624789461
+      },
+      {
+        "Name": "Dr. Reddy's Laboratories",
+        "Symbol": "DRREDDY.NS",
+        "Close": 6204.2998046875,
+        "High": 6313.0,
+        "Low": 6185.0,
+        "change": -92.80029296875,
+        "percent": -1.4736988697907123
+      },
+      {
+        "Name": "HCL Technologies",
+        "Symbol": "HCLTECH.NS",
+        "Close": 1366.5999755859375,
+        "High": 1397.9000244140625,
+        "Low": 1362.449951171875,
+        "change": -20.800048828125,
+        "percent": -1.4992106430810708
+      },
+      {
+        "Name": "JSW Steel",
+        "Symbol": "JSWSTEEL.NS",
+        "Close": 882.2000122070312,
+        "High": 902.75,
+        "Low": 880.0499877929688,
+        "change": -13.54998779296875,
+        "percent": -1.5126974929353894
+      },
+      {
+        "Name": "Bharat Petroleum",
+        "Symbol": "BPCL.NS",
+        "Close": 607.3499755859375,
+        "High": 624.5499877929688,
+        "Low": 603.4000244140625,
+        "change": -11.45001220703125,
+        "percent": -1.8503575360221352
+      },
+      {
+        "Name": "Tech Mahindra",
+        "Symbol": "TECHM.NS",
+        "Close": 1263.5,
+        "High": 1291.0999755859375,
+        "Low": 1260.050048828125,
+        "change": -24.800048828125,
+        "percent": -1.9250211820362688
+      }
+    ]
+  }
+  
