@@ -1,75 +1,28 @@
-# Getting Started with Create React App
+Project Description: Stock Analysis Dashboard
+Project Title: Comprehensive Stock Analysis Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Overview:
+The Stock Analysis Dashboard is a robust and user-friendly platform designed to provide both fundamental and technical analysis of stocks, focusing primarily on the Nifty 50, Bank Nifty, Sensex, and Nifty Finance indices. This project aims to equip investors, financial analysts, and market enthusiasts with the necessary tools and information to make informed investment decisions.
 
-## Available Scripts
+Key Features:
 
-In the project directory, you can run:
+Dashboard Overview:
 
-### `Yarn`
+An intuitive dashboard that provides an overview of key indices: Nifty 50, Bank Nifty, Sensex, and Nifty Finance.
+Visual representation of market data through charts and graphs, offering a quick snapshot of market trends and performance.
+Menu Section:
 
-Install packages
+Detailed information on individual Nifty 50 companies, including comprehensive fundamental data.
+Access to balance sheets, profit and loss statements, and other critical financial documents.
+Market Movers:
 
-### `Yarn start`
+Sections dedicated to highlighting the top gainers and top losers in the market.
+Insights into sector performance with charts displaying sector-specific data and index contributions.
+Visual Tools:
 
-Runs the app in the development mode.\
+Interactive charts and bar graphs to visualize market data, sector performance, and individual stock metrics.
+Tools to compare and analyze different stocks and sectors effectively.
+Indicators and Strategies:
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Incorporation of technical indicators and strategy models specifically tailored for Nifty 50 companies.
+Advanced model selection options, including LSTM (Long Short-Term Memory) and ARIMA (AutoRegressive Integrated Moving Average) for predicting stock trends and performance.
